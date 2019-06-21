@@ -2,7 +2,7 @@
 Es una app para crear un Web Service para Registro de reciclado utilizando Java EE, Apache Tomcat 7 y Axis 2
 
 
-![Imagen de ejemplo de la aplicación final](https://github.com/yamil16/App-para-la-gestion-del-reciclado-javaEE-ApachaTomcat-Axis2/Imagenes/ServicioExample.png)
+![Imagen de ejemplo de la aplicación final](https://github.com/yamil16/App-para-la-gestion-del-reciclado-javaEE-ApachaTomcat-Axis2/blob/master/Imagenes/ServicioExample.png)
 
 Los servicios implementados son:
 •Registra un usuario(User)::User
